@@ -1,6 +1,6 @@
 # Docker Node MongoDB Example
 
-> Simple example of a dockerized Node/Mongo app
+> Simple example of a dockerized Node/Mongo app and using circle ci
 
 ## Quick Start
 
